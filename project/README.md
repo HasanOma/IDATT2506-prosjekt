@@ -14,3 +14,7 @@ ToDo list Flutter project.
 ![emulator found here](readmeimg/emulator.png)
 6. run "flutter clean" and "flutter pub get" in the terminal 
 7. Click run icon in toolbar or click run > run in menu bar.
+
+![How it looks](readmeimg/flutter1.jpg)
+
+![How it looks](readmeimg/flutter2.jpg)
